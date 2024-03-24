@@ -1,5 +1,5 @@
 # Twinkle-s-Portfolio
-![logo]()
+![logo](https://github.com/dhruviktwinkle/Twinkle-s-Portfolio/blob/main/banner%20bg.png)
 <h1 align="center">Hi 👋, I'm Twinkle Patel</h1>
 <h3 align="center">A passionate App Developer from Canada</h3>
 
